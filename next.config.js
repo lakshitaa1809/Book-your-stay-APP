@@ -1,11 +1,12 @@
-/** @type {import('next').NextConfig} */
-
-const nextConfig = {
-  reactStrictMode: true,
-};
-
 module.exports = {
+  reactStrictMode: true,
   images: {
-    domains: ["links.papareact.com"],
+    domains: [
+    
+      "res.cloudinary.com",
+      "a0.muscache.com",
+      "media.nomadicmatt.com",
+      "thespaces.com","images.unsplash.com"
+    ],
   },
 };
