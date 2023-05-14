@@ -14,7 +14,9 @@ const Home = () => {
       <Header />
       <main className="max-w-7xl mx-auto px-8 sm:px-10">
         <section className="pt-[20px]">
-          <h2 className="text-4xl font-semibold py-5">Live Anywhere</h2>
+          <h2 className="text-4xl font-semibold py-5">
+            Experience A Stay Like Never Before...
+          </h2>
           <div className="flex space-x-10  p-3 ml-3 rounded-lg">
             <Card
               src="https://a0.muscache.com/im/pictures/miso/Hosting-39974109/original/4bf3e6ff-555a-4553-973e-a371d4331e43.jpeg?im_w=720"
